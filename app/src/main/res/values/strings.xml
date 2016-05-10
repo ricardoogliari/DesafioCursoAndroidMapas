@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Desafio1</string>
+    <string name="facebook_app_id">268704693480837</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="endereco">Endereço:</string>
+    <string name="local">Local:</string>
+</resources>
